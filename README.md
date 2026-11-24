@@ -1,8 +1,4 @@
-<img width="5712" height="4284" alt="Tetris" src="https://github.com/user-attachments/assets/cf9c5f6a-e893-4f49-8238-2c5b24405a93" />
-<img width="4032" height="3024" alt="Solitare" src="https://github.com/user-attachments/assets/e8d8a599-6e14-4d6c-abe9-096b9f6b8b29" />
-<img width="4032" height="3024" alt="Paint" src="https://github.com/user-attachments/assets/ef109c18-7c84-4cf7-8aef-bee1475ae7dd" />
-<img width="5712" height="4284" alt="Notepad" src="https://github.com/user-attachments/assets/aac545e1-6df6-4123-b5ca-6e5897e38185" />
-<img width="5712" height="4284" alt="Desktop" src="https://github.com/user-attachments/assets/2bf1adaf-6481-4d7c-86c7-8b787136205c" />
+
 
 
 
